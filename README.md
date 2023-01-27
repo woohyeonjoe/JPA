@@ -9,7 +9,7 @@
     
 | 강의  |완료|
 |:---:|:---:|
-| 자바 ORM 표준 JPA 프로그래밍 - 기본편 |`진행중`|
+| [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/woohyeonjoe/JPA/tree/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8) |`진행중`|
 | 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 ||
 | 실전! 스프링 부트와 JPA 활용2 - API개발과 성능 최적화 ||
 | 실전! 스프링 데이터 JPA ||
